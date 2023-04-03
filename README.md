@@ -9,7 +9,7 @@ There are two main parts to this application. The first is the server which we a
 To get started run the commands below.
 
 ```
-$ git clone https://github.com/simpulton/ngrx-rest-app.git
+$ git clone https://github.com/bomber0325/ngrx-rest-app.git
 $ cd nxrx-rest-app
 $ npm install
 $ npm start
